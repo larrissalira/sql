@@ -5,7 +5,7 @@
 <h3> MINI PROJETO 2 - Segunda sprint do módulo 3. </h3>
 
 <p>
-    <strong> 🔸 CRIANDO O BANCO DE DADOS RESILIA E POPULANDO ELE (foi a atividade de primeira sprint).</strong>
+    <strong> 🔸 CRIANDO O BANCO DE DADOS RESILIA E POPULANDO ELE (foi a atividade da primeira sprint).</strong>
 </p>
 <p> 
     <strong> 🔸 BANCO RESILIA + AS REQUISIÇÕES DA SEGUNDA SPRINT:</strong>
